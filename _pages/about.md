@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I received my undergraduate degree in Chemical and Biological Engineering at Princeton University in May 2022. My previous research have involved each of the theorical, experimental, and computational aspects of biological systems. Durin my undergraduate studies, I worked with Professor [Stanislav Shvartsman](https://cbe.princeton.edu/people/stanislav-shvartsman) for three years on topics in developmental biology. My work studied coupled oscillators in embryonic cells.
 
-I am currently an associate consultant at Trinity Life Sciences. At Trinity, I (todo: Binglun) do lots of cools stuff where I am exposed to a wide array of 
+Currently, I am an associate consultant at Trinity Life Sciences, a leading life science management consulting firm that provides strategic advice to clients worldwide. My ? projects to-date have spanned areas including neuroinflammatory diseases and insert gene editing. My work focuses on competitive landscape analysis, primary market research, ?.
 
 
 [\[CV\]](https://bingluna.github.io/assets/pdf/cv.pdf) 
