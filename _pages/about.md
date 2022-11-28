@@ -26,3 +26,4 @@ I completed my undergraduate studies in Computer Engineering at [Brown Universit
 I have also spent some time in the industry. I worked on data-driven solutions to accelerate Rhode Island's sustainable energy transition at [AWS ETHOS Hub](https://www.ethoshub.org/), a not-for-profit organization. I was a researcher at [Unity Technologies](https://unity.com/solutions/digital-twin) for two years, building industry-leading 3D reconstruction pipelines. Prior, I worked in several start-up companies applying machine learning to problems in vision and natural languages.
 
 [\[CV\]](https://bingluna.github.io/assets/pdf/cv.pdf) 
+[\[Transcript\]](https://bingluna.github.io/assets/pdf/transcript.pdf) 
