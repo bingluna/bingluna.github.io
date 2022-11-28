@@ -9,8 +9,8 @@ profile:
   align: right
   image: prof_pic.png
   address: >
-    <p>Princeton University<\p>
-    <p>B.S.E. Chemical and Biological Engineering<\p>
+    <p>Princeton University</p>
+    <p>B.S.E. Chemical and Biological Engineering</p>
     <p><a href = "mailto: anniebshao@gmail.com">anniebshao@gmail.com</a></p>
 
 news: false  # includes a list of news items
