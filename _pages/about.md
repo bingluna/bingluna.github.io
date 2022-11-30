@@ -17,9 +17,9 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I received my undergraduate degree in Chemical and Biological Engineering from Princeton University in May 2022. My previous research projects have involved the theorical, experimental, and computational aspects of biological systems research. During my undergraduate studies, I worked with Professor [Stanislav Shvartsman](https://cbe.princeton.edu/people/stanislav-shvartsman) for three years on topics in developmental biology. Some highlights of my work include a study of coupled oscillators in embryonic cells (published in Biophysical Journal 2021), and leading a review of 3D instance segmentation methods of mouse blastocyst using deep neural networks (pending submission to PLOS Computational Biology).
+I received my undergraduate degree in Chemical and Biological Engineering from Princeton University in May 2022. My previous research projects have involved the theoretical, experimental, and computational aspects of biological systems research. During my undergraduate studies, I worked with Professor [Stanislav Shvartsman](https://cbe.princeton.edu/people/stanislav-shvartsman) for three years on topics in developmental biology. Some highlights of my work include a study of coupled oscillators in embryonic cells (published in Biophysical Journal 2021), and leading a review of 3D instance segmentation methods of mouse blastocyst using deep neural networks (pending submission to PLOS Computational Biology).
 
-Currently, I am an associate consultant at Trinity Life Sciences, a leading life science management consulting firm that provides strategic advice to clients worldwide. My projects to-date have spanned areas including neuroinflammatory diseases and insert gene editing. My work focuses on competitive landscape analysis, primary market research.
+Currently, I am an associate consultant at Trinity Life Sciences, a leading life science management consulting firm that provides strategic advice to clients worldwide. My projects to-date have spanned areas such as neuroinflammatory diseases, insert gene editing, and cell-selective drug delivery.
 
 
 [\[CV\]](https://bingluna.github.io/assets/pdf/cv.pdf) 
